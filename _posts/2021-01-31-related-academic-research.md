@@ -3,18 +3,24 @@ layout: post
 title:  "Related Academic Research"
 ---
 
+<h1>Related Academic Research</h1>
+
 In starting to prepare for this project, I took to Google Scholar to get some idea of the research already out there on the subject of AI and storytelling. I ended up with the following papers, which seemed the most relevant and valuable for my process going forward.
 
 <a href="https://link.springer.com/chapter/10.1007/978-1-4419-8188-2_6">Game AI as storytelling</a>
+
 Game AI as storytelling sets out to show how artificial intelligence can be used for more than just adversarial agents, but also as storytellers and game designers. The paper refers to this collectively as “experience management,” wherein the goal of the AI is simply to make the player’s experience more enjoyable without taking away from the player’s agency. The experience management problem can be thought of as computing unique trajectories through a “state space” of possible events and outcomes, which requires an ability to compute narrative structures.
 
 <a href="https://www.researchgate.net/profile/Marc_Cavazza/publication/220851669_Interactive_storytelling_from_AI_experiment_to_new_media/links/580f3d0308aef2ef97afbf4b/Interactive-storytelling-from-AI-experiment-to-new-media.pdf">Interactive storytelling: from AI experiment to new media</a>
+
 Interactive storytelling reviews some of the underlying challenges of using AI in storytelling, as well as the elements required to successfully achieve it. The paper explains that AI planning is most used for story generation because of a story’s ability to be represented as a collection of events. In particular, Hierarchical Task Networks are useful for representing these actions and characters as tasks that can be searched to find a solution plan. The challenge to this approach lies in making the events fit together into a believable and enjoyable story - characteristics that are difficult to categorize and evaluate.
 
 <a href="https://www.csc.ncsu.edu/faculty/robertsd/csc591f10/readings/roberts-2009.pdf">Beyond Adversarial: The Case for Game AI as Storytelling</a>
+
 Beyond Adversarial presents an argument that future endeavors in video game AI should focus on storytelling rather than winning. It argues that improving player enjoyment is a more valuable and interesting problem to solve than simply finding a better algorithm to defeat a game. The paper also presents some information about the current state of AI storytelling research, even in games as standard as chess and poker. 
 
 <a href="https://www.aaai.org/Papers/Symposia/Spring/2002/SS-02-01/SS02-01-003.pdf">Sex, lies, and video games: An interactive storytelling prototype</a>
+
 This paper presents a prototype for an “Interactive Storytelling system,” which allows players to intervene and change a prepared storyline. The story generation relies heavily on interactions between the characters and was able to successfully create short but complete stories. The paper concludes that character-based storytelling, as opposed to plot-based storytelling, has strong potential for future narrative generation.
 
 In the process of finding these papers, I found and skimmed a total of 24 papers. All of the papers I considered are listed below.
