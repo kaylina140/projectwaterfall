@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Stakeholder Archetypes & Audience Information"
 ---
 
